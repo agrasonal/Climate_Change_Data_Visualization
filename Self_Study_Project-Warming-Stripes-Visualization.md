@@ -3,7 +3,7 @@ Course: Dashboards, Scorecards and Visualization
 Title: "Self-Study-Project - Warming_Stripes"
 Author: "Sonal Agrawal"
 Date: "4/12/2019"
-Output: html_document
+Output: github_document
 ---
 
 ## Context
