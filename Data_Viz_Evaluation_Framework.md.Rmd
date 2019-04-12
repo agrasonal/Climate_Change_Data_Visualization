@@ -121,4 +121,3 @@ So, to sum up:
 * Overdressing leads to confusion and distractions and should be avoided at any cost. It leads to greater simplicity and enhances focus on the underlying message.
 * Data should be presented accurately in order to help the reader make informed choices and inspire the right action.
 * Visualization should be engaging enough for the reader to retain the key information and recall it later when needed.
-

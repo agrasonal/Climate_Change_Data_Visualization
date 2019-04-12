@@ -6,6 +6,10 @@ Date: "4/12/2019"
 Output: github_document
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 ## Context
 
 With our planet getting warmer every year, climate change is a burning topic amongst the environmentalists, scientists and governments.
@@ -22,7 +26,7 @@ I have tried to recreate the warming stripes visualization using Tableau. By usi
 
 ```{r pressure, echo=FALSE, fig.cap="Warming_Stripes_Tableau", out.width = '100%'}
 
-knitr::include_graphics("Self-Study-Stripes.png")
+knitr::include_graphics("Images/Self-Study-Stripes.png")
 
 ```
 
