@@ -14,30 +14,32 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Data Visualization is important not only to explore and analyze data in order to identify hidden patterns. But also to present and communicate these findings and insights to the intended audience. In other words, data visualization helps in putting across an important point which can be an insight, an observation, awareness or a call to action to make a decision. 
 
-When a data visualization is designed, it is done so keeping the audience in mind. However, for the same creator, the objectives can be different based on the audiences. For example, a climate scientist can design a visualization of historical temperature data for both disseminating scientific knowledge within the climate science community or communicating to policymakers about key indicators and impacts. In the first case, the goal is exploratory analysis, while in the second case, the goal is presentation of results. Owing to these differences in who creates a visualization and who the audience is, the scenarios can involve very different approaches and techniques(___).
+When a data visualization is designed, it is done so keeping the audience in mind. However, for the same creator, the objectives can be different based on the audiences. For example, a climate scientist can design a visualization of historical temperature data for both disseminating scientific knowledge within the climate science community or communicating to policymakers about key indicators and impacts. In the first case, the goal is exploratory analysis, while in the second case, the goal is presentation of results. Owing to these differences in who creates a visualization and who the audience is, the scenarios can involve very different approaches and techniques(Ref-https://research.tableau.com/sites/default/files/Kosara-C4PGV-2016.pdf).
 
-In today’s world where data really matters, it is important to create charts that communicate with the intended audience effectively and clearly. But, it isn’t always the case. From cluttering the charts with excessive information to communicating a completely inaccurate idea, there are many ways a visualization can fail to serve its intended purpose. These articles(____) & (___), discuss various criteria to gauge the effectiveness of a data visualization. Key parameters that can help us  understand the same are following:
+## How to evaluate a visualization?
+In today’s world where data really matters, it is important to create charts that communicate with the intended audience effectively and clearly. But, it isn’t always the case. From cluttering the charts with excessive information to communicating a completely inaccurate idea, there are many ways a visualization can fail to serve its intended purpose. These articles(Ref-https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) & (Ref-https://research.tableau.com/sites/default/files/Kosara-C4PGV-2016.pdf), discuss various criteria to gauge the effectiveness of a data visualization. Key parameters that can help us  understand the same are following:
 
-**Usefulness**: Provides the reader with information that is useful, unexpected and invites a different perspective of the data. For eg., a visualization can be eloquent in every way, but if it communicates information that is of no value, it is ineffective.
+* **Usefulness**: Provides the reader with information that is useful, unexpected and invites a different perspective of the data. For eg., a visualization can be eloquent in every way, but if it communicates information that is of no value, it is ineffective.
 
-**Completeness**: Includes all of the information along with the context, that’s needed to produce the intended level of understanding in the right amounts, but not more. For eg., a chart which showcases comparisons, or conveys the message by giving a historical context will result in a better understanding of the data.
+* **Completeness**: Includes all of the information along with the context, that’s needed to produce the intended level of understanding in the right amounts, but not more. For eg., a chart which showcases comparisons, or conveys the message by giving a historical context will result in a better understanding of the data.
 
-**Clarity**: Displays information in a manner that is easily understandable by the human eye and brain with minimal effort and appropriate precision. For eg., forcing people to compare the sizes or color intensities of two circles, which is somewhat difficult and imprecise, when the positions or lengths of objects could have been used instead, makes it ambiguous.
+* **Clarity**: Displays information in a manner that is easily understandable by the human eye and brain with minimal effort and appropriate precision. For eg., forcing people to compare the sizes or color intensities of two circles, which is somewhat difficult and imprecise, when the positions or lengths of objects could have been used instead, makes it ambiguous.
 
-**Emphasis**: Uses proper labelling, grids and annotations if necessary, which help emphasize the intended message. Overdressing the charts with unnecessary information makes the decoding process inefficient, by increasing the non-data ink. For eg., use of excess color, multiple comments and abuse of special effects are some of the key mistakes that lessen the effectiveness of a chart.
+* **Emphasis**: Uses proper labelling, grids and annotations if necessary, which help emphasize the intended message. Overdressing the charts with unnecessary information makes the decoding process inefficient, by increasing the non-data ink. For eg., use of excess color, multiple comments and abuse of special effects are some of the key mistakes that lessen the effectiveness of a chart.
 
-**Truthfulness**: Degree to which it is accurate and valid. Accuracy is a measure of reliability and appropriate precision. Validity indicates how well something represents what it claims. For example, a bar chart which doesn’t start at zero or an overstretched line chart results in an overblown or understated message which might mislead the reader. 
+* **Truthfulness**: Degree to which it is accurate and valid. Accuracy is a measure of reliability and appropriate precision. Validity indicates how well something represents what it claims. For example, a bar chart which doesn’t start at zero or an overstretched line chart results in an overblown or understated message which might mislead the reader. 
 
-**Memorability**: Memorable enough to ‘stick,’ at least for a short time to inspire engagement or action to take a decision. For eg., an effective chart will leave an imprint on the reader’s mind of important data values, key trends, overall message or even the unusual visual design used, which might inspire the intended action.
+* **Memorability**: Memorable enough to ‘stick,’ at least for a short time to inspire engagement or action to take a decision. For eg., an effective chart will leave an imprint on the reader’s mind of important data values, key trends, overall message or even the unusual visual design used, which might inspire the intended action.
 
 This is how our data visualization evaluation framework looks like:
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/Evaluation_Framework.png)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Evaluation_Framework.png)
+
 This framework can be used to access the effectiveness of a chart by scoring it across all six parameters and calculating an overall effectiveness score (OES). This score might prove helpful in cases where we are comparing the effectiveness of multiple charts in conveying an interlinked story.
 
 Let’s take a scenario to understand the usefulness of the above mentioned framework in assessing the effectiveness of visualizations.
 
-<h2>**Case Study - Climate Change Caused by Human Activity**<h2>
+<h2>**Case Study - Climate Change Caused by Human Activity**</h2>
 
 Earth’s climate is undergoing changes faster than ever. The global average temperature has been constantly rising at an alarming rate having an adverse effect on the earth’s ecosystem. There is unanimous agreement on the fact that climate change has primarily been caused by the human activities like burning of fossil fuels such as oil and coal, which releases CO2 and other greenhouse gases into the atmosphere. These gases when released trap sun’s heat within the atmosphere, resulting in different kinds of effects on our ecosystem like, rising temperatures,  rising sea levels, unpredictable weather events like wildfires, droughts, etc.
 
@@ -47,7 +49,7 @@ Here are a few charts emphasizing various causes and effects of global warming t
 
 **Graph-1: Current CO2 level in the atmosphere**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/Global-CO2-levels.jpeg)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Global-CO2-levels.jpeg)
 (Image Ref: https://climate.nasa.gov/evidence/)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
@@ -60,7 +62,7 @@ Since CO2 emissions is a major factor causing global warming, it is useful for a
 
 **Graph-2: Global levels of greenhouse gas emissions by gas**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/global-ghg-emissions.png)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/global-ghg-emissions.png)
 (Image Ref: (Ref - https://www.epa.gov/climate-indicators/climate-change-indicators-global-greenhouse-gas-emissions)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
@@ -73,7 +75,7 @@ This graph conveys the underlying message very clearly that global level of gree
 
 **Graph-3: What are the sources of greenhouse gas emissions in USA by sector?**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/GHG-USA-sector.jpg)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/greenhouse-gas-sources-in-the-us.jpg)
 (Image Ref: https://www.climatecentral.org/gallery/graphics/greenhouse-gas-sources-in-the-us)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
@@ -86,7 +88,7 @@ By just stating the division of sources of greenhouse gas emissions in USA, it i
 
 **Graph-4: Global Temperature & Carbon Dioxide**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/globaltemp_vs_co2.jpg)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/globaltemp_vs_co2.jpg)
 (Image Ref: https://www.climatecentral.org/gallery/graphics/co2-and-rising-global-temperatures)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
@@ -99,7 +101,7 @@ By informing the reader about the rising global temperature with increasing CO2 
 
 **Graph-5: Climate Models vs Observations**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/Humans-vs-climate.jpg)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Humans-vs-climate.jpg)
 (Image Ref: https://friendsofscience.org/index.php?id=680)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
@@ -110,7 +112,7 @@ This graph rates high on overall effectiveness with an overall score of - **4**.
 
 By comparing the observed vs calculated global temperature, it conveys a very interesting and unexpected message that the panic around climate change due to human activity is probably unjustified. It includes a broader view on the problem by providing a timeline starting 1975 and includes various sources which were used to calculate surface temperatures. However, this chart is pretty cluttered with multiple labels, arrows, irregular use of colors and text sizes, etc., and hence, less effective in drawing the emphasis on the key underlying message. Since it refers to use of credible scientific models which are commonly used to measure surface temperatures, it is fairly reliable. However, since the key message is lost between the clutter, it is not powerful enough to leave a visual imprint in the mind of the reader.
 
-<h2>**Conclusion**<h2>
+<h2>**Conclusion**</h2>
 
 After analyzing the above five graphs, we can say that effectiveness of a chart depends on multiple parameters where each parameter plays its own role. Since these parameters are subjective, depending on the intended audience and purpose, lower scores for some parameters like ‘Memorability’ and ‘Emphasis’ are still acceptable. However, parameters like ‘Usefulness’ & ‘Context’ are utmost important with no room for negotiation. This is because no matter how beautiful a chart looks, if it isn’t addressing the needs of the intended readers and inspiring an action, it is of no value to them. On the contrary, if it is intelligently designed to speak to a targeted audience, they will be willing to make an extra effort to decipher the chart even if it isn’t scoring well on ‘Clarity’ and ‘Emphasis’. 
 
