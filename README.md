@@ -14,9 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Data Visualization is important not only to explore and analyze data in order to identify hidden patterns. But also to present and communicate these findings and insights to the intended audience. In other words, data visualization helps in putting across an important point which can be an insight, an observation, awareness or a call to action to make a decision. 
 
-When a data visualization is designed, it is done so keeping the audience in mind. However, for the same creator, the objectives can be different based on the audiences. For example, a climate scientist can design a visualization of historical temperature data for both disseminating scientific knowledge within the climate science community or communicating to policymakers about key indicators and impacts. In the first case, the goal is exploratory analysis, while in the second case, the goal is presentation of results. Owing to these differences in who creates a visualization and who the audience is, the scenarios can involve very different approaches and techniques(___).
+When a data visualization is designed, it is done so keeping the audience in mind. However, for the same creator, the objectives can be different based on the audiences. For example, a climate scientist can design a visualization of historical temperature data for both disseminating scientific knowledge within the climate science community or communicating to policymakers about key indicators and impacts. In the first case, the goal is exploratory analysis, while in the second case, the goal is presentation of results. Owing to these differences in who creates a visualization and who the audience is, the scenarios can involve very different approaches and techniques(Ref-https://research.tableau.com/sites/default/files/Kosara-C4PGV-2016.pdf).
 
-In today’s world where data really matters, it is important to create charts that communicate with the intended audience effectively and clearly. But, it isn’t always the case. From cluttering the charts with excessive information to communicating a completely inaccurate idea, there are many ways a visualization can fail to serve its intended purpose. These articles(____) & (___), discuss various criteria to gauge the effectiveness of a data visualization. Key parameters that can help us  understand the same are following:
+In today’s world where data really matters, it is important to create charts that communicate with the intended audience effectively and clearly. But, it isn’t always the case. From cluttering the charts with excessive information to communicating a completely inaccurate idea, there are many ways a visualization can fail to serve its intended purpose. These articles(Ref-https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) & (Ref-https://research.tableau.com/sites/default/files/Kosara-C4PGV-2016.pdf), discuss various criteria to gauge the effectiveness of a data visualization. Key parameters that can help us  understand the same are following:
 
 **Usefulness**: Provides the reader with information that is useful, unexpected and invites a different perspective of the data. For eg., a visualization can be eloquent in every way, but if it communicates information that is of no value, it is ineffective.
 
@@ -33,11 +33,12 @@ In today’s world where data really matters, it is important to create charts t
 This is how our data visualization evaluation framework looks like:
 
 ![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/Evaluation_Framework.png)
+
 This framework can be used to access the effectiveness of a chart by scoring it across all six parameters and calculating an overall effectiveness score (OES). This score might prove helpful in cases where we are comparing the effectiveness of multiple charts in conveying an interlinked story.
 
 Let’s take a scenario to understand the usefulness of the above mentioned framework in assessing the effectiveness of visualizations.
 
-<h2>**Case Study - Climate Change Caused by Human Activity**<h2>
+<h2>**Case Study - Climate Change Caused by Human Activity**</h2>
 
 Earth’s climate is undergoing changes faster than ever. The global average temperature has been constantly rising at an alarming rate having an adverse effect on the earth’s ecosystem. There is unanimous agreement on the fact that climate change has primarily been caused by the human activities like burning of fossil fuels such as oil and coal, which releases CO2 and other greenhouse gases into the atmosphere. These gases when released trap sun’s heat within the atmosphere, resulting in different kinds of effects on our ecosystem like, rising temperatures,  rising sea levels, unpredictable weather events like wildfires, droughts, etc.
 
@@ -110,7 +111,7 @@ This graph rates high on overall effectiveness with an overall score of - **4**.
 
 By comparing the observed vs calculated global temperature, it conveys a very interesting and unexpected message that the panic around climate change due to human activity is probably unjustified. It includes a broader view on the problem by providing a timeline starting 1975 and includes various sources which were used to calculate surface temperatures. However, this chart is pretty cluttered with multiple labels, arrows, irregular use of colors and text sizes, etc., and hence, less effective in drawing the emphasis on the key underlying message. Since it refers to use of credible scientific models which are commonly used to measure surface temperatures, it is fairly reliable. However, since the key message is lost between the clutter, it is not powerful enough to leave a visual imprint in the mind of the reader.
 
-<h2>**Conclusion**<h2>
+<h2>**Conclusion**</h2>
 
 After analyzing the above five graphs, we can say that effectiveness of a chart depends on multiple parameters where each parameter plays its own role. Since these parameters are subjective, depending on the intended audience and purpose, lower scores for some parameters like ‘Memorability’ and ‘Emphasis’ are still acceptable. However, parameters like ‘Usefulness’ & ‘Context’ are utmost important with no room for negotiation. This is because no matter how beautiful a chart looks, if it isn’t addressing the needs of the intended readers and inspiring an action, it is of no value to them. On the contrary, if it is intelligently designed to speak to a targeted audience, they will be willing to make an extra effort to decipher the chart even if it isn’t scoring well on ‘Clarity’ and ‘Emphasis’. 
 
