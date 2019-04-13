@@ -1,6 +1,6 @@
 ---
 Course:Dashboards, Scorecards & Visualizations
-Title: "Data_Viz_Evaluation_Framework"
+Title: ""Self-Study-Project - Part-1"
 Author: "Sonal Agrawal"
 Date: "4/12/2019"
 Output: github_document

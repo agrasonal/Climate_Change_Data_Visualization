@@ -1,6 +1,6 @@
 ---
 Course: Dashboards, Scorecards and Visualization
-Title: "Self-Study-Project - Warming_Stripes"
+Title: "Self-Study-Project - Part-2"
 Author: "Sonal Agrawal"
 Date: "4/12/2019"
 Output: github_document
@@ -24,9 +24,5 @@ Professor Ed Hawkins, a climate scientist in the National Centre for Atmospheric
 
 I have tried to recreate the warming stripes visualization using Tableau. By using 'Highlighted Tables' chart types, I have plotted the temperatures for each year from 1850 to 2019 using a colour gradient varying from -0.544 to 0.797.
 
-```{r pressure, echo=FALSE, fig.cap="Warming_Stripes_Tableau", out.width = '100%'}
-
-knitr::include_graphics("Images/Self-Study-Stripes.png")
-
-```
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Self-Study-Stripes.png)
 
