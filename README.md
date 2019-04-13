@@ -75,7 +75,7 @@ This graph conveys the underlying message very clearly that global level of gree
 
 **Graph-3: What are the sources of greenhouse gas emissions in USA by sector?**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/GHG-USA-sector.jpg)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/greenhouse-gas-sources-in-the-us.jpg)
 (Image Ref: https://www.climatecentral.org/gallery/graphics/greenhouse-gas-sources-in-the-us)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
