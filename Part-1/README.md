@@ -102,6 +102,7 @@ By informing the reader about the rising global temperature with increasing CO2 
 **Graph-5: Climate Models vs Observations**
 
 ![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Humans-vs-climate.jpg)
+
 (Image Ref: https://friendsofscience.org/index.php?id=680)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
