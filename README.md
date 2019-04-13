@@ -33,7 +33,7 @@ In today’s world where data really matters, it is important to create charts t
 
 This is how our data visualization evaluation framework looks like:
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/Evaluation_Framework.png)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Evaluation_Framework.png)
 
 This framework can be used to access the effectiveness of a chart by scoring it across all six parameters and calculating an overall effectiveness score (OES). This score might prove helpful in cases where we are comparing the effectiveness of multiple charts in conveying an interlinked story.
 
@@ -49,7 +49,7 @@ Here are a few charts emphasizing various causes and effects of global warming t
 
 **Graph-1: Current CO2 level in the atmosphere**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/Global-CO2-levels.jpeg)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Global-CO2-levels.jpeg)
 (Image Ref: https://climate.nasa.gov/evidence/)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
@@ -62,7 +62,7 @@ Since CO2 emissions is a major factor causing global warming, it is useful for a
 
 **Graph-2: Global levels of greenhouse gas emissions by gas**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/global-ghg-emissions.png)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/global-ghg-emissions.png)
 (Image Ref: (Ref - https://www.epa.gov/climate-indicators/climate-change-indicators-global-greenhouse-gas-emissions)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
@@ -75,7 +75,7 @@ This graph conveys the underlying message very clearly that global level of gree
 
 **Graph-3: What are the sources of greenhouse gas emissions in USA by sector?**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/GHG-USA-sector.jpg)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/GHG-USA-sector.jpg)
 (Image Ref: https://www.climatecentral.org/gallery/graphics/greenhouse-gas-sources-in-the-us)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
@@ -88,7 +88,7 @@ By just stating the division of sources of greenhouse gas emissions in USA, it i
 
 **Graph-4: Global Temperature & Carbon Dioxide**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/globaltemp_vs_co2.jpg)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/globaltemp_vs_co2.jpg)
 (Image Ref: https://www.climatecentral.org/gallery/graphics/co2-and-rising-global-temperatures)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
@@ -101,7 +101,7 @@ By informing the reader about the rising global temperature with increasing CO2 
 
 **Graph-5: Climate Models vs Observations**
 
-![figure](https://github.com/agrasonal/Visualizing-Climate-Change /blob/master/Images/Humans-vs-climate.jpg)
+![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Humans-vs-climate.jpg)
 (Image Ref: https://friendsofscience.org/index.php?id=680)
 
 Usefulness |	Completeness	| Clarity	| Emphasis	| Truthfulness	| Memorability	| Overall Score
