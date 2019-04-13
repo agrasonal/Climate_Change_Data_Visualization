@@ -1,10 +1,8 @@
----
 Course:Dashboards, Scorecards & Visualizations
 Title: ""Self-Study-Project - Part-1"
 Author: "Sonal Agrawal"
 Date: "4/12/2019"
 Output: github_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -47,7 +45,7 @@ These changes have been so obvious that climate change is a topic of constant de
 
 Here are a few charts emphasizing various causes and effects of global warming that we will evaluate using our framework to understand the effectiveness of these visualizations in conveying the intended message.
 
-<p><u>**Graph-1: Current CO2 level in the atmosphere**</u></p>
+**Graph-1: Current CO2 level in the atmosphere**
 
 ![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Global-CO2-levels.jpeg)
 (Image Ref: https://climate.nasa.gov/evidence/)
@@ -60,7 +58,7 @@ This graph rates extremely well on overall effectiveness with an overall score o
 
 Since CO2 emissions is a major factor causing global warming, it is useful for a reader to understand this change. In fact, by setting a historical context of year 1950 and comparing it with the current level, it gives the reader a good idea of the seriousness of the situation. By using a simple line graph, designer has very easily conveyed this message to the reader. Also, use of gridlines, different colored text labels highlighting current and 1950 levels and clean background is helping in emphasizing the key message of this graph. Also, since it covers a complete timeline starting 400,000 years before today, it seems reliable and accurate. And, it is not just the CO2 levels that capture the reader’s attention, but also the background of outer space setting a context to the graph that is surely going to stick in the reader’s mind for a long time.
 
-<u><p>**Graph-2: Global levels of greenhouse gas emissions by gas**</u></p>
+**Graph-2: Global levels of greenhouse gas emissions by gas**
 
 ![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/global-ghg-emissions.png)
 (Image Ref: (Ref - https://www.epa.gov/climate-indicators/climate-change-indicators-global-greenhouse-gas-emissions)
@@ -73,7 +71,7 @@ This graph rates considerably high on overall effectiveness with an overall scor
 
 This graph conveys the underlying message very clearly that global level of greenhouse gas emissions is continuously increasing over the years. By analyzing data every 5 years, it is probably missing out on any unexpected changes that might have occurred between this window of 5 years and hence, is incomplete. With the use of a simple visualization type, it is conveying the message clearly. However, use of stacked bar graphs is making it difficult for the reader to gauge changes in the levels of gases other than CO2. Also, use of a legend distracts the reader to some extent. The y-axis starts at zero and x-axis covers a span of years, making it fairly accurate and reliable. Although, it does portray the key message clearly, it doesn’t however communicate it in a way that is bound to stick in the reader’s mind for a long time.    
 
-<u><p>**Graph-3: What are the sources of greenhouse gas emissions in USA by sector?**</u></p>
+**Graph-3: What are the sources of greenhouse gas emissions in USA by sector?**
 
 ![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/greenhouse-gas-sources-in-the-us.jpg)
 (Image Ref: https://www.climatecentral.org/gallery/graphics/greenhouse-gas-sources-in-the-us)
@@ -86,7 +84,7 @@ This graph rates low on overall effectiveness with an overall score of - **3**.
 
 By just stating the division of sources of greenhouse gas emissions in USA, it is not communicating anything unexpected to the reader. It conveys a message which is pretty much common knowledge and without a context (like change over the years), it doesn’t make sense and looks incomplete. However, since pie charts are very easy for a reader to understand, this chart is pretty intuitive and straightforward. With proper labels, bold color choices, reasonable text sizes and self explanatory titles, it lays emphasis on the message very clearly without any distractions. Also, lack of information on represented year or a range of years, it seems inaccurate and less trustworthy. Also, there is no memorable key takeaway from this chart for the reader that might inspire an action.
 
-<u><p>**Graph-4: Global Temperature & Carbon Dioxide**</u></p>
+**Graph-4: Global Temperature & Carbon Dioxide**
 
 ![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/globaltemp_vs_co2.jpg)
 (Image Ref: https://www.climatecentral.org/gallery/graphics/co2-and-rising-global-temperatures)
@@ -99,7 +97,7 @@ This graph rates high on overall effectiveness with an overall score of - **4.5*
 
 By informing the reader about the rising global temperature with increasing CO2 levels, it is conveying the underlying message very well. Also, by comparing the change in temperature and CO2 level across a wide range, it is providing a valid context to the chart. However, by combining two messages in the same graph, it is comparatively less intuitive and requires extra attention. This combined with two separate y-axes for temperature and CO2 level, takes the emphasis away from the key message. However, by including a timeline starting way back into past, it draws a pretty reliable comparison. Lack of any comments or labels highlighting the key message of this chart doesn’t leave the reader with any thoughts or inspiration.
 
-<u><p>**Graph-5: Climate Models vs Observations**</u></p>
+**Graph-5: Climate Models vs Observations**
 
 ![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Humans-vs-climate.jpg)
 
