@@ -6,10 +6,6 @@ Date: "4/12/2019"
 Output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Why is data visualization important?
 
 Data Visualization is important not only to explore and analyze data in order to identify hidden patterns. But also to present and communicate these findings and insights to the intended audience. In other words, data visualization helps in putting across an important point which can be an insight, an observation, awareness or a call to action to make a decision. 
