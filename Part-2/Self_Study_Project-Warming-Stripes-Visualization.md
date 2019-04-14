@@ -18,7 +18,11 @@ Professor Ed Hawkins, a climate scientist in the National Centre for Atmospheric
 
 ## Visualizing warming stripes using Tableau
 
-I have tried to recreate the warming stripes visualization using Tableau. By using 'Highlighted Tables' chart types, I have plotted the temperatures for each year from 1850 to 2019 using a colour gradient varying from -0.544 to 0.797.
+I have tried to recreate the warming stripes visualization using Tableau. 
+
+I have chosen 'Highlight Tables' to compare temperatures data using color.I did that by placing 'Years' on the Columns shelf and selected 'Square' as type and placed 'a measure of interest 'Median Temperatures' on the Color shelf.
+
+As shown by the graph below, I have plotted the temperatures for each year from 1850 to 2019 using a colour gradient varying from -0.544 to 0.797.
 
 ![figure](https://github.com/agrasonal/Visualizing-Climate-Change/blob/master/Images/Self-Study-Stripes.png)
 
