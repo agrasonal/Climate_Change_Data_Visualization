@@ -33,7 +33,9 @@ This is how our data visualization evaluation framework looks like:
 
 This framework can be used to access the effectiveness of a chart by scoring it across all six parameters and calculating an overall effectiveness score (OES). This score might prove helpful in cases where we are comparing the effectiveness of multiple charts in conveying an interlinked story.
 
-Let’s take a scenario to understand the usefulness of the above mentioned framework in assessing the effectiveness of visualizations.
+Since these parameters are subjective, depending on the intended audience and purpose, lower scores for some parameters like ‘Memorability’ and ‘Emphasis’ are still acceptable. However, parameters like ‘Usefulness’ & ‘Context’ are utmost important with no room for negotiation. This is because no matter how beautiful a chart looks, if it isn’t addressing the needs of the intended readers and inspiring an action, it is of no value to them. On the contrary, if it is intelligently designed to speak to a targeted audience, they will be willing to make an extra effort to decipher the chart even if it isn’t scoring well on ‘Clarity’ and ‘Emphasis’. 
+
+Now, let’s take a scenario to understand the usefulness of the above mentioned framework in assessing the effectiveness of visualizations.
 
 <h2>**Case Study - Climate Change Caused by Human Activity**</h2>
 
@@ -111,9 +113,8 @@ By comparing the observed vs calculated global temperature, it conveys a very in
 
 <h2>**Conclusion**</h2>
 
-After analyzing the above five graphs, we can say that effectiveness of a chart depends on multiple parameters where each parameter plays its own role. Since these parameters are subjective, depending on the intended audience and purpose, lower scores for some parameters like ‘Memorability’ and ‘Emphasis’ are still acceptable. However, parameters like ‘Usefulness’ & ‘Context’ are utmost important with no room for negotiation. This is because no matter how beautiful a chart looks, if it isn’t addressing the needs of the intended readers and inspiring an action, it is of no value to them. On the contrary, if it is intelligently designed to speak to a targeted audience, they will be willing to make an extra effort to decipher the chart even if it isn’t scoring well on ‘Clarity’ and ‘Emphasis’. 
+After analyzing the above five graphs, we can say that effectiveness of a chart depends on multiple parameters where each parameter plays its own role. To sum up:
 
-So, to sum up:
 * Visualizations should be customized to a specific audience and able to address their needs. This is a case where one size does not fit all.
 * Context plays a key role in better understanding and building trust, leading to an action.
 * Choosing the right chart type depending on the intended audience is important for easy interpretability and acceptance.
