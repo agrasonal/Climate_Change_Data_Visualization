@@ -113,7 +113,7 @@ By comparing the observed vs calculated global temperature, it conveys a very in
 
 <h2>**Conclusion**</h2>
 
-After analyzing the above five graphs, we can say that effectiveness of a chart depends on multiple parameters where each parameter plays its own role. To sum up:
+After analyzing the above five graphs, we can say that effectiveness of a chart depends on multiple parameters where each parameter plays its own role. And as mentioned earlier, since these parameters are quite subjective, low or high scores are acceptable depending on the intended audience and purpose. To sum up:
 
 * Visualizations should be customized to a specific audience and able to address their needs. This is a case where one size does not fit all.
 * Context plays a key role in better understanding and building trust, leading to an action.
